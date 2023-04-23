@@ -1,3 +1,9 @@
+http-parser (2.9.4-4deepin1) unstable; urgency=medium
+
+  * fix deepin package error
+
+ -- xiangzelong <xiangzelong@deepin.org>  Sat, 02 Jan 2021 17:07:49 +0100
+
 http-parser (2.9.4-4) unstable; urgency=medium
 
   * Packaging cleanup
